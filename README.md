@@ -4,7 +4,7 @@ DDI session - 3rd February 2022
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[BINDER BUTTON]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-python-data-3feb22/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
